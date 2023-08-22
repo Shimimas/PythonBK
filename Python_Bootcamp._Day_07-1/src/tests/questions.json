@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of France?",
+      "answers": [
+        {
+          "answer": "Berlin",
+          "value": 0
+        },
+        {
+          "answer": "London",
+          "value": 0
+        },
+        {
+          "answer": "Paris",
+          "value": 1
+        },
+        {
+          "answer": "Madrid",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "question": "How many continents are there?",
+      "answers": [
+        {
+          "answer": "Three",
+          "value": 0
+        },
+        {
+          "answer": "Four",
+          "value": 0
+        },
+        {
+          "answer": "Five",
+          "value": 0
+        },
+        {
+          "answer": "Seven",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
